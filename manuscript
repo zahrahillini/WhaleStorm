@@ -9,8 +9,8 @@ Project proposal:
 Our team is looking to create a predictive model of water flow data using single-family household flow information. The goal of our dataset analysis is to teach the system to process the incoming water flow data to predict it's origin. By the end of the semester, water flows from showers, sinks, toilets, etc., will be automatically sorted based on their characteristics with a certain degree of uncertainty. For example, the user will be able to see how much water was used for showers, dishwashing, or restrooms in their household over a given time period. Predictive modeling of flow data will eliminate the extremely time consuming process of flow segregation. Such processing is extremely important to the Water-Emergy nexus research field of Civil and Environnmental Engineering. Fast sorting of flow information allows researchers to dedicate more of their time to the development of feedback tactics to promote water conservation among industry and consumers.
 
 Plan of action:
-- Clean up the raw data to filter out unnecessary criteria
-- Outline the project timeline and set-up reoccuring meetings
-- Separate the flow information for each of the group members to process
+- Clean up the raw data to filter out unnecessary criteria.
+- Outline the project timeline and set-up reoccuring meetings.
+- Separate the flow information for each of the group members to process.
 
 
