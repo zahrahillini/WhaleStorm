@@ -3,7 +3,8 @@ Project title: Decoupling of Water Flow Data for a Single-family Household Using
 Team Members: Valerie Bevan, John Hanley, Vica Otrub, Zahra Heydari
 
 Dataset description:
-Water flow data from a single-family household, provided by Dr. Ashlynn Stillwell. This data set was generated using ____, and is in the format of a ___ file.
+Water flow data from a single-family household, provided by Dr. Ashlynn Stillwell. This data set was generated using ____, and is in the format of a ___ file. It contains 
+(insert the names of the columns, their descriptions, and units).
 
 Project proposal:
 Our team is looking to create a predictive model of water flow data using single-family household flow information. The goal of our dataset analysis is to teach the system to
