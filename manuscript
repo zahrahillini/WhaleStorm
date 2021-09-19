@@ -12,5 +12,7 @@ Plan of action:
 - Clean up the raw data to filter out redundant rows, unnessissary column containing information that will not be used for this project (such as tempreture and pressure).
 - Outline the project timeline and set-up reoccuring meetings.
 - Separate the flow information for each of the group members to process.
-
+- Label the data 
+- Train the data based on further modules we learn in class
+- build final model based on performance rate (using the testing set)
 
